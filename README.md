@@ -16,7 +16,7 @@
 # Changelog
 
 - 1.1.1 Initial Realease
-
+- 1.1.2 Fixed SQL File for picture
 
 # installation 
 

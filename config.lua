@@ -15,10 +15,10 @@ Config.NewsLocations = {
 
     {
         PrompCoords = vector3(-340.52, 733.61, 117.16),   --- Also the Location of Blip (Valentine)
-        NpcCoords = vector3(-341.3, 733.12, 117.23),
-        NpcHeading = 301.43,
-        StandCoords = vector3(-340.52, 733.61, 117.16),
-        StandHeading = 119.21,
+        NpcCoords = vector3(-341.84, 731.72, 117.36),
+        NpcHeading = 294.58,
+        StandCoords = vector3(-340.33, 732.54, 117.25),
+        StandHeading = 306.26,
     },
 
 }
